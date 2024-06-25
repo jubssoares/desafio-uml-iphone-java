@@ -13,7 +13,7 @@
 <h4>Contexto</h4>
 
 <p align="justify">
-    Com base no vídeo de lançamento do iPhone de 2007 <a href="https://www.youtube.com/watch?v=9ou608QQRq8">(Link)</a>, você deve elaborar a diagramação das classes e interfaces utilizando uma ferramenta UML de sua preferência. Em seguida, implemente as classes e interfaces no formato de arquivos .java.
+    Com base no vídeo de lançamento do iPhone de 2007 <a href="https://www.youtube.com/watch?v=9ou608QQRq8">(Link)</a>, elaborei a diagramação das classes e interfaces utilizando mermaid. Em seguida, implementei as classes e interfaces no formato de arquivos .java.
 </p>
 
 #### Funcionalidades a Modelar
